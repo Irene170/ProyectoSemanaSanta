@@ -1,14 +1,14 @@
 package patosMatematicos;
-
-public class PatoZambullidor {
-	/**
+/**
 	 * Esta clase es otro tipo de pato,tiene variaciones de salud y resuelve
-	 * ecuaciones lineales, hace otr tipo de sonidos
+	 * ecuaciones lineales, hace otro tipo de sonidos
 	 * 
 	 * @author irene
 	 *
 	 * @version 1.0
 	 */
+public class PatoZambullidor {
+	
 	String nombre;
 	int edad;
 	String color;

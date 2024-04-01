@@ -1,10 +1,9 @@
 package patosMatematicos;
 
 /** Esta clase es otro tipo de pato, hace sonidos, es desconfiado y resuelve ecuaciones cuadráticas
-* 
-* @author irene 
-*/
-/**
+ * 
+ * @author irene 
+ *
  * @version 1.0
  */
 
